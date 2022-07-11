@@ -1,2 +1,2 @@
 # Ubuntu-student
-my-student falder 
+my-student folder 
